@@ -43,6 +43,57 @@ E assim que surgiu o termo "muro da confusão", separando desenvolvimento e oper
 |  **Erros frequentes e demora na solução** → Testes manuais aumentavam falhas. |  **Automação e velocidade** → Reduz o trabalho manual e acelera processos. |
 |  **Dificuldade de escalabilidade** → Infraestrutura exigia muito tempo e esforço. |  **Escalabilidade facilitada** → Infraestrutura se ajusta rapidamente conforme a demanda. |\
 
+## Automação de Processos  
+
+Automatizar tarefas repetitivas é um dos principais objetivos do **DevOps**. Isso reduz erros humanos, melhora a eficiência e libera tempo para tarefas estratégicas.  
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/af874207-c42a-4f5b-97a5-6c0068e64811" width="700px">
+</div>  
+
+### **Principais áreas de automação**  
+
+| Processo | O que faz? |
+|------------|-------------|
+| **Integração Contínua (CI)** | Automatiza testes para garantir que cada alteração no código funcione corretamente. Identifica erros antes de chegar à produção. |
+| **Entrega Contínua (CD)** | Publicação automática do software para ambientes de teste e produção, garantindo que novas funcionalidades cheguem mais rápido aos usuários. |
+| **Infraestrutura como Código (IaC)** | Criação e configuração automática de servidores, redes e outros recursos. |
+| **Monitoramento e Resolução** | Disparo automático de alertas, reinício de serviços e monitoramento contínuo para evitar falhas antes que impactem os usuários. |
+
+## "You Build It, You Run It" – Você constrói, você mantém!  
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/cdcdd980-7d3e-4ab1-8f76-1712a0298c62" width="500px">
+</div>  
+
+No **DevOps**, quem desenvolve também ajuda a manter o código funcionando.  
+
+- Isso torna os sistemas mais **estáveis e confiáveis**.  
+- Popularizado por **Werner Vogels (CTO da Amazon)**.  
+- Adotado por **Amazon, Netflix e Google** para garantir entregas ágeis e seguras.
+
+## DevOps é mais do que tecnologia, é uma mudança de cultura!  
+
+<div align="left">
+  <img src="https://i.gifer.com/P9JD.gif" width="500px">
+</div>  
+
+O verdadeiro impacto do **DevOps** está na forma como as equipes **colaboram**. Mais do que ferramentas e automação, ele traz uma nova mentalidade de trabalho:  
+
+**Equipes trabalhando juntas em todas as etapas do desenvolvimento.**  
+**Mais alinhamento, transparência e eficiência.**  
+**Responsabilidade compartilhada: problemas e melhorias são um esforço coletivo.**  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
