@@ -28,7 +28,24 @@ Como sistemas geralmente quebram devido a mudanças, essas metas entravam em con
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDl5Y3M2M3VwYjY2eWtpcW92amwzaDFvMGlhY2VkZ3lqbjJsNGg4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNW27pn33u8rtuw/giphy.gif" width="580px">
 </div>
 
-E assim que surgiu o termo "muro da confusão", separando desenvolvimento e operações, desevoldores jogavam patchs de codigo por cima do muro para implantacao e o time de ops devolvia erros e metricas de dowtime.
+E assim que surgiu o termo "muro da confusão", separando desenvolvimento e operações, desevoldores jogavam patchs de codigo por cima do muro para implantacao e o time de ops devolvia erros e metricas de dowtime.  
+
+## Antes vs. Depois do DevOps  
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/6956fa1f-d42c-40bd-b7d3-b1cfd3572be2" width="700px">
+</div>  
+
+| Antes do DevOps | Com o DevOps |
+|-----------------|-------------|
+|  **Processos manuais e demorados** → Publicações levavam dias ou semanas. |  **Entrega contínua** → Atualizações frequentes e seguras. |
+|  **Falta de colaboração** → Devs e Ops trabalhavam separados. |  **Cultura de responsabilidade compartilhada** → Todos engajados no ciclo de vida do software. |
+|  **Erros frequentes e demora na solução** → Testes manuais aumentavam falhas. |  **Automação e velocidade** → Reduz o trabalho manual e acelera processos. |
+|  **Dificuldade de escalabilidade** → Infraestrutura exigia muito tempo e esforço. |  **Escalabilidade facilitada** → Infraestrutura se ajusta rapidamente conforme a demanda. |\
+
+
+
+
 
 
 
