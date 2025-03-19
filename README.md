@@ -1,4 +1,4 @@
-# DevOps: O equilíbrio perfeito entre código, infraestrutura e café frio.
+# DevOps: O equilíbrio perfeito entre código, infra e café frio
 
 ![image](https://github.com/user-attachments/assets/0a784376-bd68-4d0f-a428-26ce0045d2b9)
 
