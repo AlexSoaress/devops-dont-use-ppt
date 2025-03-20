@@ -28,7 +28,7 @@ Como sistemas geralmente quebram devido a mudanças, essas metas entravam em con
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDl5Y3M2M3VwYjY2eWtpcW92amwzaDFvMGlhY2VkZ3lqbjJsNGg4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNW27pn33u8rtuw/giphy.gif" width="580px">
 </div>
 
-E assim que surgiu o termo "muro da confusão", separando desenvolvimento e operações, desevoldores jogavam patchs de codigo por cima do muro para implantacao e o time de ops devolvia erros e metricas de dowtime.  
+E assim que surgiu o termo "muro da confusão", separando desenvolvimento e operações, desenvolvedores jogavam patchs de código por cima do muro para implantação e o time de ops devolvia erros e métricas de downtime.  
 
 ## Antes vs. Depois do DevOps  
 
